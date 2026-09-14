@@ -22,7 +22,7 @@ namespace StudentProfile
             students = new Dictionary<string, Student>
             {
                 { "1001", new Student("1001", "Juan Dela Cruz", "BS Information Technology", "3") },
-                { "1002", new Student("1002", "Maria Santos", "BS Computer Science", "2") },
+                { "1002", new Student("1002", "Maria Santos", "BS Computer Science", "3") },
                 { "1003", new Student("1003", "Pedro Reyes", "BS Information Technology", "4") }
             };
 
